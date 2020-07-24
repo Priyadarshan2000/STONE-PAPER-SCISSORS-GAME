@@ -1,5 +1,6 @@
 # DEMO =>
-![20200724_175111 1](https://user-images.githubusercontent.com/62868878/88390708-6fc37f80-cdd6-11ea-9e41-1c90d4e08aee.gif)
+![20200724_175510](https://user-images.githubusercontent.com/62868878/88391047-009a5b00-cdd7-11ea-965f-e5d54907447f.gif)
+
 
 
 # STONE-PAPER-SCISSORS-GAME HOME PAGE =>
